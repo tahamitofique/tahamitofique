@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tahamitofique
 
-An experienced Data Scientist with 1.5 years of experience solving challenging problems with analysis and analytical-oriented solutions in the technology, auditing, consulting, and research industries.
+An experienced Data Scientist solving challenging problems with analysis and analytical-oriented solutions in the technology, auditing, consulting, and research industries.
 
 As a student of Computer Science, I was deeply involved in object-oriented programming and software engineering, which has led me to my current work on data mining, regression analysis, predictive models, data analytics, and data visualization.
 
@@ -12,7 +12,4 @@ Tools and Languages: Python (Pandas, NumPy, matplotlib, scikit-learn, Tensorflow
 
 Analytical Statistics: Data mining, Data cleaning, Exploratory Data Analysis (EDA), Data Visualization, Machine Learning, Linear & Logistic Regression, Statistics, Hypothesis Testing, Financial Analytics, Deep Learning, Sentiment Analysis, and Dimension Reduction.
 
-- 💞️ I am capable of working hard and efficiently. I'm looking for opportunities in the field of Data Science that will allow me to put my abilities to effective use. Have the ability to pick up additional knowledge fast.
-
-- 📫 How to reach me ...
-tahamitofique@hotmail.com | linkedin.com/in/tahamitofique 
+- 💞️ I am capable of working hard and efficiently. Have the ability to pick up additional knowledge fast.
